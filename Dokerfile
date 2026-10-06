@@ -1,3 +1,0 @@
-FROM nginx:alphine
-COPY . /usr/share/iginx/html
-EXPOSE 80
